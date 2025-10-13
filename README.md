@@ -4,7 +4,7 @@
 🌱 Currently learning **Full-Stack Development**  
 💬 Ask me about **Java, OOP**  
 📫 Reach me: **bsse1506@iit.du.ac.bd**  
-⚡ Fun fact: I love solving problems!
+⚡ Fun fact: I love problem solving!
 
 ---
 
