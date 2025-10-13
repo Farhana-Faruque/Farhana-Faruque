@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Farhana Faruque  
 ### 💻 Software Developer | 🎓 Student at IIT, University of Dhaka  
 
-🌱 Currently learning **Full-Stack Development**  
-💬 Ask me about **Java, OOP**  
+🌱 Currently learning **Full-Stack Development**   
 📫 Reach me: **bsse1506@iit.du.ac.bd**  
-⚡ Fun fact: I love problem solving!
 
 ---
 
