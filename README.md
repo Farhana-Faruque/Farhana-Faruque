@@ -22,8 +22,8 @@
 ---
 
 ### 🚀 Projects
-- 🧩 [DesktopApp](https://github.com/Farhana-Faruque/DesktopApp) – Supershop Management System using JavaFX 
 - 🧠 [SPL 1 – Image Compression Tool](https://github.com/Farhana-Faruque/SPL2-) – Developed in **C**, this project performs **lossless image compression** for **BMP**, **PNG**, and **PGM** formats, focusing on file size reduction and efficient bitwise data handling and **lossy image compression** for **JPEG** formats.
+- 🧩 [DesktopApp](https://github.com/Farhana-Faruque/DesktopApp) – Supershop Management System using JavaFX 
 
 
 
