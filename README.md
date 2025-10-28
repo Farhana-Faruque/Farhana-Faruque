@@ -23,14 +23,6 @@
 
 ---
 
-### 🚀 Projects
-- 🧠 [SPL 1 – Image Compression Tool](https://github.com/Farhana-Faruque/SPL2-) – Developed in **C**, this project performs **lossless image compression** for **BMP**, **PNG**, and **PGM** formats, focusing on file size reduction and efficient bitwise data handling and **lossy image compression** for **JPEG** formats.
-- 🧩 [DesktopApp](https://github.com/Farhana-Faruque/DesktopApp) – Supershop Management System using JavaFX 
-
-
-
----
-
 ### 🧩 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farhana-Faruque&show_icons=true&theme=radical" height="160"/>
