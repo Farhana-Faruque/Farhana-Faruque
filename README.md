@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Farhana Faruque  
+# 👋 Hi, I'm Kazi Farhana Faruque  
 ### 💻 Software Developer | 🎓 Student at IIT, University of Dhaka  
 
 🌱 Currently learning **Full-Stack Development**   
