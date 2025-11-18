@@ -23,7 +23,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/farhana-faruque" target="_blank">
+  <a href="https://www.linkedin.com/in/kazi-farhana-faruque/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bsse1506@iit.du.ac.bd">
