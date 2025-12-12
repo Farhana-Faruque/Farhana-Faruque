@@ -32,7 +32,7 @@
 
 ---
 
-## 🔥 GitHub Streak  
+<!-- ## 🔥 GitHub Streak  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Farhana-Faruque&theme=radical&border_radius=5" height="200"/>
 </p>
@@ -51,15 +51,15 @@
   <img src="https://raw.githubusercontent.com/Farhana-Faruque/Farhana-Faruque/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+--- -->
 
 ## 📬 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/farhana-faruque/" target="_blank">
+  <a href="https://www.linkedin.com/in/kazi-farhana-faruque/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:farhanafaruque935@gmail.com">
+  <a href="mailto:bsse1506@iit.du.ac.bd">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
