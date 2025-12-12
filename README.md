@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Farhana Faruque</h1>
+<h1 align="center">Hi 👋, I'm Kazi Farhana Faruque</h1>
 <h3 align="center">A Passionate Learner & Future Full-Stack Developer</h3>
 
 <p align="center">
