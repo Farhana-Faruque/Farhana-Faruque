@@ -12,6 +12,7 @@
 - 💻 Exploring **React, Python, Databases, Algorithms**  
 - 🎯 Goal: Become a skilled Software Engineer  
 - 📫 Reach me at: **bsse1506@iit.du.ac.bd**
+- Portfolio: **farhanafaruque.vercel.app**
 
 
 
